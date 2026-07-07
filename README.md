@@ -1,4 +1,4 @@
-# Jeu de société en ligne : Secret Hitler
+# Jeu de société en ligne : Secret 
 
 ## Comment lancer le jeu
 1. Téléchargez le fichier `index.html` de ce dépôt.
